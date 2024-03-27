@@ -1,0 +1,7 @@
+pypdf
+langchain==0.0.225
+sentence-transformers==2.2.2  ## For convert text to embeddings
+faiss-cpu   ## VectorDB
+ctransformers==0.2.5  ## To use quantized Llama-2 model
+flask
+-e . ## For Installing local packages like src using setup.py
