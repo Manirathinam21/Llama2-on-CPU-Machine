@@ -24,6 +24,14 @@ conda activate cpullama
 pip install -r requirements.txt
 ```
 
+### step 3:
+
+To run the application execute following command
+
+```bash
+python app.py
+
+```
 
 ### Download the quantize model from the  link provided in model folder and keep the model in the model directory:
 
