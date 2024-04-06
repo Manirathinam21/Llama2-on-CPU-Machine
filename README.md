@@ -44,11 +44,6 @@ llama-2-7b-chat.ggmlv3.q4_0.bin
 https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
 ```
 
-
-## Webpage -
-![UI](UI.JPG)
-<br/>
-
 ## ChatBot Image -
 ![Llama-2 on cpu machine](https://github.com/Manirathinam21/Llama2-on-CPU-Machine/assets/59825357/38043b12-d76a-4245-92d0-e413b1d55936)
 <br/>
